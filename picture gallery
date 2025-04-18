@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Places to Visit in India</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        body {
+            background-color: pink;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background: lightblue;
+            padding: 20px;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            padding: 20px;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        .gallery-item {
+            background: white;
+            border-radius: 8px;
+            padding: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+            color: black;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            border-radius: 5px;
+            display: block;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .gallery-item:hover {
+            transform: scale(1.05);
+        }
+
+        .gallery-item:hover img {
+            transform: scale(1.1);
+        }
+
+        .gallery-item p {
+            font-weight: bold;
+            margin: 10px 0;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+        <h1>Must-Visit Places in India</h1>
+    </header>
+
+    <div class="gallery">
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Taj Mahal ad Agra, Uttar Pradesh, India @Tanarch.jpg" alt="Taj Mahal, Agra">
+            <p>Taj Mahal, Agra</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Desktop\Gate way of india.jpg" alt="Gateway of India, Mumbai"> okok
+            <p>Gateway of India, Mumbai</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Desktop\kerala backwaters.jpg" alt="Kerala Backwaters">okok
+            <p>Kerala Backwaters</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Majestic Hawa Mahal at Night.jpg" alt="Hawa Mahal, Jaipur">
+            <p>Hawa Mahal, Jaipur</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Surrealist Varanasi Ghats in Winter Morning _ Harmony _ Banaras _ Kashi.jpg" alt="Ghats of Varanasi">
+            <p>Ghats of Varanasi</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Ladakh📍.jpg" alt="Ladakh">
+            <p>Ladakh</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Charminar Hyderabad.jpg" alt="Charminar, Hyderabad">
+            <p>Charminar, Hyderabad</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Qutub Minar Delhi.jpg" alt="Qutub Minar, Delhi">
+            <p>Qutub Minar, Delhi</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Meenakshi Amman Temple _ Ananth.jpg" alt="Meenakshi Temple, Madurai">okok
+            <p>Meenakshi Temple, Madurai</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Jaipur City Palace, India.jpg" alt="City Palace, Jaipur">
+            <p>City Palace, Jaipur</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Red fort.jpg" alt="Red Fort, Delhi">
+            <p>Red Fort, Delhi</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\sunderbans national park safari.jpg" alt="Sundarbans National Park">
+            <p>Sundarbans National Park</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Andaman and Nicobar, India.jpg" alt="Andaman and Nicobar Islands">
+            <p>Andaman and Nicobar Islands</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\At the tip of western Gujarat lies the Rann of….jpg" alt="Rann of Kutch">
+            <p>Rann of Kutch</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\sachkhand sri harmandir sahib, amritsar.jpg" alt="Golden Temple, Amritsar">
+            <p>Golden Temple, Amritsar</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Jaisalmer fort view.jpg" alt="Jaisalmer Fort">
+            <p>Jaisalmer Fort</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Sanchi Stupa is a UNESCO World Heritage Site which….jpg" alt="Sanchi Stupa">
+            <p>Sanchi Stupa</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Darjeeling.jpg" alt="Darjeeling">
+            <p>Darjeeling</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Shimla, Himachal Pradesh.jpg" alt="Shimla">
+            <p>Shimla</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Manali.jpg" alt="Manali">
+            <p>Manali</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Goa.jpg" alt="Goa">
+            <p>Goa</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Temple Khajuraho.jpg" alt="Khajuraho Temples">
+            <p>Khajuraho Temples</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Mysore Palace, Mysuru, India.jpg" alt="Mysore Palace">
+            <p>Mysore Palace</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\📍Vivekananda Rock, Kanyakumari, India ❤️ _❤️.jpg" alt="Kanyakumari">
+            <p>Kanyakumari</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\ajanta and ellora caves.jpg" alt="Ajanta and Ellora Caves">
+            <p>Ajanta and Ellora Caves</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Kodaikanal.jpg" alt="Kodaikanal">
+            <p>Kodaikanal</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\ooty.jpg" alt="Ooty">
+            <p>Ooty</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Nainital Lake uttarakhand.jpg" alt="Nainital">
+            <p>Nainital</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\Rishikesh Tourism.jpg" alt="Rishikesh">
+            <p>Rishikesh</p>
+        </div>
+
+        <div class="gallery-item">
+            <img src="C:\Users\Admin\Downloads\konark Sun temple.jpg" alt="Konark Sun Temple">
+            <p>Konark Sun Temple</p>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
